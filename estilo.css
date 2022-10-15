@@ -1,0 +1,39 @@
+body {
+     margin: 10px 10%;
+     background-color: #A6ACAF;
+     font-family: verdana;
+     text-align: justify;
+}
+
+h1 {
+     font-size: 300%;
+     text-align: center;
+     letter-spacing: 10px;
+}
+
+h2 {
+     background-color: #212F3C;
+     color: white;
+     font-size: 200%;
+     padding: 0.2rem 0.5rem;
+     clear: both;
+}
+
+p {
+     text-indent: 2rem;
+     margin-left: 10%;
+     margin-right: 10%;
+}
+
+img {
+     margin: 0 10px 10px 0;
+     float: left;
+}
+
+strong {
+     background-color: white;
+}
+
+em {
+     color: #7B241C;
+}
